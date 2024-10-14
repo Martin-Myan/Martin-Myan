@@ -45,6 +45,7 @@
           src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
           alt="nextjs"
           width="40"
+          style="background-color: white"
           height="40"
         />
       </a>
@@ -120,6 +121,7 @@
         <img
           src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
           alt="cypress"
+          style="background-color: white"
           width="40"
           height="40"
         />
