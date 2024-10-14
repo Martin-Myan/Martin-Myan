@@ -39,13 +39,13 @@
         href="https://nextjs.org/"
         target="_blank"
         rel="noreferrer"
-        style="background-color: aliceblue"
+        style="background: white"
       >
         <img
           src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
           alt="nextjs"
           width="40"
-          style="background-color: white"
+          style="background: white"
           height="40"
         />
       </a>
