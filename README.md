@@ -21,8 +21,32 @@
           width="40"
           height="40"
         />
+      <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
+          alt="node js"
+          width="100"
+          height="40"
+        />
         <img
-          src="https://iconape.com/wp-content/png_logo_vector/nextjs.png"
+          src="https://nestjs.com/img/logo-small.svg"
+          alt="nest js"
+          width="40"
+          height="40"
+        />
+        <img
+          src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
+          alt="sass"
+          width="40"
+          height="40"
+        />
+        <img
+          src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg"
+          alt="sass"
+          width="40"
+          height="40"
+        />
+        <img
+          src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp"
           alt="nextjs"
           width="40"
           style="background: white"
@@ -54,13 +78,13 @@
         />
         <img
           src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
-          alt="nextjs"
+          alt="firebase"
           width="40"
           height="40"
         />
         <img
           src="https://www.remoterocketship.com/images/blog/Jest-icon-for-blog.jpg"
-          alt="nextjs"
+          alt="jest"
           width="40"
           height="40"
         />
@@ -139,30 +163,6 @@
         />
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
-          alt="node js"
-          width="100"
-          height="40"
-        />
-        <img
-          src="https://nestjs.com/img/logo-small.svg"
-          alt="nest js"
-          width="40"
-          height="40"
-        />
-        <img
-          src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-        <img
-          src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg"
           alt="sass"
           width="40"
           height="40"
