@@ -22,7 +22,7 @@
           height="40"
         />
         <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+          src="https://iconape.com/wp-content/png_logo_vector/nextjs.png"
           alt="nextjs"
           width="40"
           style="background: white"
@@ -30,25 +30,25 @@
         />
         <img
           src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png"
-          alt="nextjs"
+          alt="cypress"
           width="40"
           height="40"
         />
         <img
           src="https://mobx.js.org/img/mobx.png"
-          alt="nextjs"
+          alt="mobX"
           width="40"
           height="40"
         />
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"
-          alt="nextjs"
+          alt="GraphQl"
           width="40"
           height="40"
         />
         <img
           src="https://i.etsystatic.com/30965494/r/il/3d9bce/3526008378/il_fullxfull.3526008378_qsce.jpg"
-          alt="nextjs"
+          alt="web3"
           width="40"
           height="40"
         />
