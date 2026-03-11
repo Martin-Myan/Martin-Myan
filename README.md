@@ -114,13 +114,13 @@
           height="40"
         />
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png"
           alt="tailwind"
           width="40"
           height="40"
         />
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png"
           alt="bootstrap"
           width="40"
           height="40"
@@ -144,7 +144,7 @@
           height="40"
         />
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
           alt="node js"
           width="100"
           height="40"
@@ -189,12 +189,6 @@
           src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png"
           alt="sass"
           width="40"
-          height="40"
-        />
-        <img
-          src="https://plugins.jetbrains.com/files/23444/463934/icon/default.png"
-          alt="postman"
-          width="60"
           height="40"
         />
         <img
