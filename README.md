@@ -65,7 +65,7 @@
           height="40"
         />
         <img
-          src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8yZjJlZGE1Zjk5MDg4ZjlhMmJkM2M3ZDY1Nzc1ZjMyMz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.GK_iK0AfcN-AIa-cw34YqonuoTowfc-ZngV-e_00PGY"
+          src="https://iconape.com/wp-content/png_logo_vector/nextjs.png"
           alt="nextjs"
           width="40"
           height="40"
